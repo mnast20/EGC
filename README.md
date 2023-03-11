@@ -1,5 +1,5 @@
 # EGC
-Repository for Computer Graphics Subject, it contains all the laboratories, as well as three projects. An OpenGl Framework provided by the proffessors was used in order to implement the laboratories and the projects.
+Repository for Computer Graphics Subject, it contains all the laboratories, as well as three projects. An OpenGl Framework provided by the professors was used in order to implement the laboratories and the projects.
 
 ## Project 1: Duck Hunt
 It is a 2D game, where the player has to shoot ducks in order to increase their score. For each shot duck, 10 points are added. The game ends in a victory when the player has reached 1000 points, or in a loss, when three lives have been lost. When a player loses a life, it means that three bullets haven't hit their mark, or a duck managed to escape. The game gets progressively faster, the ducks gradually increasing their speed. For every five ducks, the speed increases.
